@@ -27,13 +27,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-http://g.recordit.co/seJ1LGOggJ.gif
+<img src="http://g.recordit.co/seJ1LGOggJ.gif" width=250> <br>
 
 GIF created with [Recodit](https://recordit.co/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+- Swift is a completely new and different coding language from all the languages that I learnt at my university so it takes me a while to actually understand and write correct and efficient code. 
 
 ## License
 
