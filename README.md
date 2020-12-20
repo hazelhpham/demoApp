@@ -33,7 +33,7 @@ GIF created with [Recodit](https://recordit.co/).
 
 ## Notes
 
-- Swift is a completely new and different coding language from all the languages that I learnt at my university so it takes me a while to actually understand and code. However, I learnt some fundamental concepts of Swift and had a lot  fun when doing this project. 
+- Swift is a completely new and different coding language from all the languages that I learnt at my university so it took me a while to actually understand and code. However, I learnt some fundamental concepts of Swift and had a lot  fun when doing this project. 
 
 ## License
 
